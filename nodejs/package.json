@@ -1,0 +1,23 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "```go go run main.go ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sing3demons/convertCsvToJson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sing3demons/convertCsvToJson/issues"
+  },
+  "homepage": "https://github.com/sing3demons/convertCsvToJson#readme",
+  "dependencies": {
+    "mongoose": "^6.9.2"
+  }
+}
